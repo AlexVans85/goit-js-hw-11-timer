@@ -1,0 +1,19 @@
+.timer {
+  border-style: solid;
+  background-color: #3cd615;
+  color: black;
+  display: flex;
+  text-align: center;
+  font-size: 25px;
+  width: 1000px;
+  padding-left: 100px;
+  margin-left: auto-left;
+  margin-right: auto-right;
+}
+
+.field {
+  display: flex;
+  display: block;
+  /* color: antiquewhite; */
+  margin-right: 150px;
+}
